@@ -1,0 +1,4 @@
+*.js        text   eol=crlf
+
+README.md   text   eol=crlf
+
