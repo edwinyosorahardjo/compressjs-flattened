@@ -53,14 +53,22 @@ self.postMessage({"the_result":result}, result)
 you can see an example on how to use it in <a href="https://github.com/eladkarako/base64/blob/master/reader.js#L27">github.com/eladkarako/base64 - reader.js (Line 27)</a>.
 
 
+&nbsp;
+
+<br/>
 
 <hr/>
+
 <br/>
+
 <br/>
+
+the <a href="https://github.com/cscott/compressjs">compressjs</a> &nbsp; <a href="https://github.com/cscott/compressjs/blob/master/README.md">README.md</a> file: 
+
 <br/>
-the <a href="https://github.com/cscott/compressjs">compressjs</a> <a href="https://github.com/cscott/compressjs/blob/master/README.md">README.md</a> file:
-<br/>
+
 # compressjs
+
 [![NPM][NPM1]][NPM2]
 
 [![Build Status][1]][2] [![dependency status][3]][4] [![dev dependency status][5]][6]
