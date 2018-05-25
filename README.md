@@ -14,7 +14,6 @@ license is GnuV2 as-in compressjs project.
 
 <hr/>
 
-<sub>
 note #1:
 the compress method will accept various kinds of arrays..
 but you can work with UTF-8, array-buffer and base64 to normalize the input, by encoding it to base64.
@@ -52,7 +51,6 @@ self.postMessage({"the_result":result}, result)
 ```
 
 you can see an example on how to use it in <a href="https://github.com/eladkarako/base64/blob/master/reader.js#L27">github.com/eladkarako/base64 - reader.js (Line 27)</a>.
-</sub>
 
 
 
